@@ -1,6 +1,6 @@
 # SmartTask Project Manager
 
-## 1. Introducción
+## 1. Portada
 Este informe detalla el diseño, implementación y evaluación de un sistema de orquestación de contenedores enfocado en la alta disponibilidad para una aplicación de gestión de proyectos y tareas. La implementación utiliza tecnologías modernas de contenedores y orquestación, como Docker Swarm, para garantizar la escalabilidad y resiliencia del sistema. La aplicación permite operaciones CRUD sobre proyectos y tareas, con persistencia en una base de datos relacional y un diseño modular que facilita el despliegue en contenedores.
 
 ## 2. Descripción del Proyecto
